@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    margin-top: 100%;
+}
+body{
+    background-color:"#D5D8DC";
+}
+#align{
+    margin-top: 3.9%;
+    background-color: lightslategray;
+    border-style: solid;
+    border-width: thick;
+    border-color: cadetblue;
+    text-align: justify;
+    text-align: center;
+    column-width: 5%;
+}
+#align2{
+    margin-top: 3.9%;
+    background-color:honeydew;
+
+}
+#bg{
+    background-color:steelblue;
+}
+#fs{
+    font-size: 20px;
+}

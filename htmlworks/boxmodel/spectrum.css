@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-family: 'Ranchers', cursive;
+}
+#tb{
+    margin-left: 35%;
+
+}
+td{
+    width:120px ;
+    height: 250px;
+    border-style: solid;
+    padding: 50px;
+    border-color: white;
+    
+}
+#one{
+    background-color: #075b5e;
+}
+#two{
+    background-color: #10e0b3;
+}
+#three{
+    background-color: #83fcb2;
+}
+#four{
+    background-color: #dcf78b;
+}
+#five{
+    background-color: red;
+}

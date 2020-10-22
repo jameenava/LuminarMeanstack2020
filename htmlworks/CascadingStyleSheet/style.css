@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+h2{
+    color: #7303fc;
+}
+#one{
+    color: black;
+}
+body{
+    background-color: rgb(3, 244, 252)
+}
+div{
+    border-style: dotted;
+    border-color: blueviolet;
+}
+#second{
+    border-style:dotted;
+    border-color: crimson;
+}
+.third{
+    border-style: dotted;
+    border-color: darkgreen;
+    background-color: deeppink;
+}
+li{
+    color: darksalmon;
+}
+#li1{
+    color: firebrick;
+}

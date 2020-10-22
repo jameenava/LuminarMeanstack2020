@@ -1,0 +1,11 @@
+.navbar-nav.ml-auto.nav-color li a{
+    color: black;
+    
+}
+#one{
+    margin-top: 10%;
+}
+#two{
+    overflow: scroll;
+
+}

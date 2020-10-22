@@ -1,0 +1,21 @@
+h3{
+    color: hsla(280, 92%, 28%, 0.6);
+    font-size: 32px;
+    margin-top: 20px;
+}
+#learn{
+    margin-top: 75px;
+}
+#bigdata{
+    color: hsla(280, 92%, 28%, 0.6);
+    font-size: 20px;
+    margin-top: 20px;
+}
+.navbar-nav.ml-auto.nav-color li a{
+    color: black;
+    
+}
+#align{
+    margin-top: 10%;
+
+}
